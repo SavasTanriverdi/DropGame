@@ -12,7 +12,7 @@ This is a simple game developed using the LibGDX framework. The objective of the
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/SavasTanriverdi/drop-game.git
+    git clone https://github.com/SavasTanriverdi/DropGame.git
     ```
 2. Navigate to the project directory:
     ```sh
